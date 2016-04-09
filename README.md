@@ -8,7 +8,7 @@ _Features:_
 * 2 initial ligatures
 
 _Supported Languages (Cyrillic-based):_
-: Russian, Bulgarian, Balkar, Nanai, Nogai, Erzya, Karachay-Balkar, Kumyk, Moksha, Crimean Tatar (Cyrillic)
+Russian, Bulgarian, Balkar, Nanai, Nogai, Erzya, Karachay-Balkar, Kumyk, Moksha, Crimean Tatar (Cyrillic)
 Belarusian (Cyrillic), Macedonian, Rusyn, Serbian (Cyrillic), Ukrainian
 
 ![Lobster Cyrillic Font](src/sample.jpg)
