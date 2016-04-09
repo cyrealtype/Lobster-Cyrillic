@@ -14,6 +14,6 @@ Belarusian (Cyrillic), Macedonian, Rusyn, Serbian (Cyrillic), Ukrainian
 ![Lobster Cyrillic Font](src/sample.jpg)
 ![Lobster Cyrillic Font](src/sample2.jpg)
 
-Released 2011.03.06
+Released 28 February 2011
 
 Designers: Gayaneh Bagdasaryan, Alexei Vanyashin
