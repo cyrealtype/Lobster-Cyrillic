@@ -1,5 +1,5 @@
 ### Lobster Cyrillic ###
->> Cyrillic version of the popular Lobster font by Pablo Impallari (impallari.com)
+> Cyrillic version of the popular Lobster font by Pablo Impallari (impallari.com)
 
 _Features:_ 
 * 99 Cyrillic ligatures
