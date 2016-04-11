@@ -21,12 +21,15 @@ To contribute to the Cyrillic version contact Alexei Vanyashin at
 a (at) cyreal.org
 
 Source files:
-1. src/Lobster-Cyrillic-Regular.glyphs (Glyphs version)
-2. src/Lobster-Cyrillic-Regular-OTF.vfb (Merged and optimized file)
-3. src/Lobster-Cyrillic-Regular-TTF.vfb (File with TTF countours and links)
+src/Lobster-Cyrillic-Regular.glyphs (Glyphs version source file)
 
 ChangeLog
 ---------
+
+11 April 2016 (Alexei Vanyashin) Lobster-Cyrillic v 1.51
+- Added stressed glyphs for Bulgarian and Macedonian support as per issue https://github.com/cyrealtype/Lobster-Cyrillic/issues/1
+— Renamed to Lobster-Cyrillic as a derivation of the original 'GoogleFonts' version
+— List of inserted glyphs, including corresponding ligatures and ending forms: uni0400, uni040D, uni0450, uni045D, _0109.end, _0105, _0106, _0107, _0108, _0109, _0110, _0110.end, _0108.end, _0107.end
 
 October 2014 (Google Fonts)
 — Additional language support [Latin-Extended] added, increasing filesize.

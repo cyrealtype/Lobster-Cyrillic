@@ -1,5 +1,7 @@
-### Lobster Cyrillic ###
+### Lobster-Cyrillic ###
 > Cyrillic version of the popular Lobster font by Pablo Impallari (impallari.com)
+
+This is a derivation from the Original Source. Includes new Cyrillic glyphs.
 
 _Features:_ 
 * 99 Cyrillic ligatures
@@ -15,5 +17,6 @@ Belarusian (Cyrillic), Macedonian, Rusyn, Serbian (Cyrillic), Ukrainian
 ![Lobster Cyrillic Font](src/sample2.jpg)
 
 Design-date: 28 February 2011
+Latest update: 11 April 2016 (Lobster-Cyrillic v 1.51)
 
 Designers: Gayaneh Bagdasaryan, Alexei Vanyashin
